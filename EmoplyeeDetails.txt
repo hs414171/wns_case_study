@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "name": "John Doe",
+      "address": "123 Main St, Cityville, USA",
+      "mobile_numbers": ["123-456-7890", "987-654-3210"],
+      "date_of_birth": "1990-05-15"
+    },
+    {
+      "name": "Jane Smith",
+      "address": "456 Elm St, Townsville, USA",
+      "mobile_numbers": ["555-555-5555"],
+      "date_of_birth": "1985-10-25"
+    },
+    {
+      "name": "Alice Johnson",
+      "address": "789 Oak St, Villagetown, USA",
+      "mobile_numbers": ["111-222-3333", "444-555-6666", "777-888-9999"],
+      "date_of_birth": "1978-03-12"
+    },
+    {
+      "name": "Bob Brown",
+      "address": "987 Pine St, Hamletville, USA",
+      "mobile_numbers": [],
+      "date_of_birth": "1995-12-03"
+    }
+  ]
+}
